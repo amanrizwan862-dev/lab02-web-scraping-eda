@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+lxml
+pandas
+spacy
+matplotlib
+seaborn
+textblob
+scikit-learn
+scipy
+jupyter
+notebook
